@@ -1,37 +1,7 @@
-#标题
-##标题2
+#test
 
-    			 测试文档
-插入图片
-插入本地图片完成
-
-**插入超**链接
-
-jlkjlk
-空间范德萨
-
- **kafashenjing**
-
-**空间了空间**`
-	include <stido.h>
-
-	int main(void)
-	{
-
-		reutrn 0;
-	}
-`
-> fdssss
-> 
-
-----------
-
-
-    #include <stdio.h>
-    
-    int main(void)
-	{
-
-
-		return 0;
-	}
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
